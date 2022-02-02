@@ -1,2 +1,2 @@
 # Game-Ball
-Reproduction du jeu rush avec WEB GL. Le but étant d'éviter des piques et de tenir le plus longtemps possible afin d'avoir le meilleur score.
+Reproduction du jeu rush avec treeJs. Une balle avance sur une piste ayant des piques à droite et à gauche. Le but est d'éviter les piques et de tenir le plus longtemps possible afin d'avoir le meilleur score.
